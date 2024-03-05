@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I’m currently learning Machine Learning with Python
+🌱 I’m currently learning ML/AI at [123ofAI](https://www.123ofai.com)
 
 ⚡ I enjoy: playing cricket, running and journaling :)
 
